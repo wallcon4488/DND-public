@@ -1,5 +1,11 @@
 site_name: DND Public Site
-theme: readthedocs
+site_url: http://127.0.0.1:8000/
+
+theme: material
+
+plugins:
+  - obsidian-bridge
+
 nav:
   - Home: Welcome.md
   - General Notes: General World Notes.md
