@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/History/History Nav.md",
+                "file": "docs/Characters/Character Nav.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "History Nav"
+              "title": "Character Nav"
             }
           }
         ]
@@ -178,8 +178,10 @@
   },
   "active": "2fc49a8637394955",
   "lastOpenFiles": [
-    "docs/Characters/Character Nav.md",
+    "docs/History/History 1.md",
     "docs/History/History Nav.md",
+    "docs/General World Notes.md",
+    "docs/Characters/Character Nav.md",
     "docs/Characters/Tabaxi PC.md",
     "docs/Characters/Genasi PC.md",
     "docs/Characters/Orc PC.md",
@@ -208,14 +210,12 @@
     "docs/!! Navigation !!/Culture Nav.md",
     "docs/!! Navigation !!/Character Nav.md",
     "docs/Characters/Thri-kreen PC.md",
-    "docs/General World Notes.md",
     "docs/index.md",
     "docs/Welcome.md",
     "docs/!! Navigation !!/Inhabitants Nav.md",
     "docs/Culture/Culture 1.md",
     "site/assets/images/favicon.png",
     "Lib/site-packages/material/templates/assets/images/favicon.png",
-    "Lib/site-packages/backrefs-5.9.dist-info/licenses/LICENSE.md",
     "Lib/site-packages/mkdocs/themes/readthedocs/css/fonts/fontawesome-webfont.svg",
     "Lib/site-packages/mkdocs/themes/mkdocs/img/grid.png"
   ]

@@ -1,39 +1,40 @@
 - no one really has preference about DND versioning
 
 DND WORLD CONTENTS
+
 - Genre/Vibes
-	- NO ROBOTS OR TECH
-	- high fantasy
-		- BG3-esque
+		- NO ROBOTS OR TECH
+		- high fantasy
+				- BG3-esque
 - there should be a whole world
-	- SET IT ON ONE CONTINTENT
+		- SET IT ON ONE CONTINTENT
 		- FIRST ACT IN ONE COUNTRY
 - Political Boundaries/Legislation
-	- have a limited amount of countries
-	- countries have their own legislation and beliefs
-	- SETTING IS ON THE EDGE OF WAR
-		- ON THE VERGE, ANYTHING COULD SET IT OFF
+		- have a limited amount of countries
+		- countries have their own legislation and beliefs
+		- SETTING IS ON THE EDGE OF WAR
+				- ON THE VERGE, ANYTHING COULD SET IT OFF
 - Theming
-	- only bad guys can do actual bad themes
-		- BESIDES MURDER or IF IT INVOLVES CHARACTER STORY or WHITE COLLAR CRIME
-		- nothing too heavy otherwise
-	- classism and racism are the big ones
-		- no sexism, just feminism
-	- fantasy racism and classism is a go
-	- tropes are a good fallback but try to be a lil creative w it
-		- SOME tropes
+		- only bad guys can do actual bad themes
+				- BESIDES MURDER or IF IT INVOLVES CHARACTER STORY or WHITE COLLAR CRIME
+				- nothing too heavy otherwise
+		- classism and racism are the big ones
+				- no sexism, just feminism
+		- fantasy racism and classism is a go
+		- tropes are a good fallback but try to be a lil creative w it
+				- SOME tropes
 - Races - https://www.dndbeyond.com/species
-	- MOSTLY traditional DND races but maybe + a few others?
-		- Tabaxi https://dnd5e.wikidot.com/lineage:tabaxi
-			- cat people
-		- Shadar-kai https://dnd5e.wikidot.com/lineage:shadar-kai
-			- dark elves, blessed by the Raven Queen
-		- Thri-kreen https://dnd5e.wikidot.com/lineage:thri-kreen
-			- insect people
-		- ????
-		- ????
+		- MOSTLY traditional DND races but maybe + a few others?
+				- Tabaxi https://dnd5e.wikidot.com/lineage:tabaxi
+						- cat people
+				- Shadar-kai https://dnd5e.wikidot.com/lineage:shadar-kai
+						- dark elves, blessed by the Raven Queen
+				- Thri-kreen https://dnd5e.wikidot.com/lineage:thri-kreen
+						- insect people
+				- ????
+				- ????
 - Noteworthy Locations
-	- Volcano
-	- Haunted spider and raven-infested forest
-	- ???
+		- Volcano
+		- Haunted spider and raven-infested forest
+		- ???
 - HAPPIER THE CLOSEST IT IS TO LORD OF THE RINGS
