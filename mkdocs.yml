@@ -9,11 +9,11 @@ plugins:
 nav:
   - Home: index.md
   - General Notes: General World Notes.md
-  - Characters: zz Navigation zz/Character Nav.md
-  - Culture: zz Navigation zz/Culture Nav.md
-  - Geography: zz Navigation zz/Geography Nav.md
-  - History: zz Navigation zz/History Nav.md
-  - Inhabitants: zz Navigation zz/Inhabitants Nav.md
-  - Political Powers: zz Navigation zz/Political Powers Nav.md
-  - Religion: zz Navigation zz/Religion Nav.md
-  - Other: zz Navigation zz/Unique Characteristics Nav.md
+  - Characters: Characters/Character Nav.md
+  - Culture: Culture/Culture Nav.md
+  - Geography: Geography/Geography Nav.md
+  - History: History/History Nav.md
+  - Inhabitants: Inhabitants/Inhabitants Nav.md
+  - Political Powers: Political Powers/Political Powers Nav.md
+  - Religion: Religion/Religion Nav.md
+  - Other: Unique Characteristics/Unique Characteristics Nav.md
