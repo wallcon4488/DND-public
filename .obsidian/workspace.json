@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/Characters/Orc PC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Orc PC"
             }
           }
         ]
@@ -178,6 +178,18 @@
   },
   "active": "f748271de0422c0f",
   "lastOpenFiles": [
+    "docs/Characters/Thri-kreen PC.md",
+    "docs/Characters/Orc PC.md",
+    "docs/Characters/Tabaxi PC.md",
+    "docs/Characters/Genasi PC.md",
+    "docs/IGNORE THIS/Character Nav.md",
+    "docs/IGNORE THIS/Culture Nav.md",
+    "docs/IGNORE THIS/Geography Nav.md",
+    "docs/IGNORE THIS/Political Powers Nav.md",
+    "docs/IGNORE THIS/Inhabitants Nav.md",
+    "docs/IGNORE THIS/History Nav.md",
+    "docs/Culture/Culture 1.md",
+    "docs/General World Notes.md",
     "docs/index.md",
     "site/Unique Characteristics/Unique Characteristic 1/index.html",
     "site/Unique Characteristics/Unique Characteristic 1",
@@ -191,31 +203,19 @@
     "site/Inhabitants/Inhabitant 1/index.html",
     "site/assets/images/favicon.png",
     "docs/Welcome.md",
-    "docs/General World Notes.md",
     "Lib/site-packages/material/templates/assets/images/favicon.png",
     "Lib/site-packages/backrefs-5.9.dist-info/licenses/LICENSE.md",
     "Lib/site-packages/idna-3.10.dist-info/LICENSE.md",
     "Lib/site-packages/mkdocs_material_extensions-1.3.1.dist-info/licenses/LICENSE.md",
     "Lib/site-packages/pymdown_extensions-10.16.1.dist-info/licenses/LICENSE.md",
-    "docs/IGNORE THIS/Geography Nav.md",
-    "docs/IGNORE THIS/Culture Nav.md",
-    "docs/IGNORE THIS/Character Nav.md",
     "docs/Connor Dev Reference.md",
     "docs/IGNORE THIS/Unique Characteristics Nav.md",
     "docs/IGNORE THIS/Religion Nav.md",
-    "docs/IGNORE THIS/Inhabitants Nav.md",
-    "docs/IGNORE THIS/Political Powers Nav.md",
-    "docs/IGNORE THIS/History Nav.md",
     "README.md",
     "docs/index.md",
     "docs/index - Copy.md",
     "docs/Political Powers/Political Power 1.md",
     "docs/Inhabitants/Inhabitant 1.md",
-    "docs/History/History 1.md",
-    "docs/Geography/Geography 1.md",
-    "docs/Culture/Culture 1.md",
-    "docs/Characters/Character 1.md",
-    "docs/Unique Characteristics/Unique Characteristic 1.md",
     "Lib/site-packages/mkdocs/themes/readthedocs/css/fonts/fontawesome-webfont.svg",
     "Lib/site-packages/mkdocs/themes/mkdocs/img/grid.png"
   ]
