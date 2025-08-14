@@ -8,6 +8,14 @@ plugins:
       backlinks:
         enabled: false
 
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+
 nav:
   - Home: index.md
   - General Notes: General World Notes.md
