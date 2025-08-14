@@ -3,7 +3,7 @@ site_name: DND Public Site
 theme: material
 
 nav:
-  - Home: Welcome.md
+  - Home: index.md
   - General Notes: General World Notes.md
   - Characters: IGNORE THIS/Character Nav.md
   - Culture: IGNORE THIS/Culture Nav.md
