@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Characters/Character Nav.md",
+                "file": "docs/General World Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Character Nav"
+              "title": "General World Notes"
             }
           }
         ]
@@ -178,13 +178,14 @@
   },
   "active": "2fc49a8637394955",
   "lastOpenFiles": [
+    "docs/Characters/Character Nav.md",
+    "docs/Characters/Thri-kreen PC.md",
+    "docs/Characters/Tabaxi PC.md",
+    "docs/Characters/Orc PC.md",
+    "docs/Characters/Genasi PC.md",
     "docs/History/History 1.md",
     "docs/History/History Nav.md",
     "docs/General World Notes.md",
-    "docs/Characters/Character Nav.md",
-    "docs/Characters/Tabaxi PC.md",
-    "docs/Characters/Genasi PC.md",
-    "docs/Characters/Orc PC.md",
     "Lib/site-packages/mkdocs_publisher-1.4.8.dist-info/REQUESTED",
     "Lib/site-packages/mkdocs_publisher-1.4.8.dist-info/INSTALLER",
     "Scripts/mkdocs-pub.exe",
@@ -209,7 +210,6 @@
     "docs/!! Navigation !!/Geography Nav.md",
     "docs/!! Navigation !!/Culture Nav.md",
     "docs/!! Navigation !!/Character Nav.md",
-    "docs/Characters/Thri-kreen PC.md",
     "docs/index.md",
     "docs/Welcome.md",
     "docs/!! Navigation !!/Inhabitants Nav.md",
