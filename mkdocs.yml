@@ -5,6 +5,8 @@ theme: material
 plugins:
   - pub-obsidian:
       obsidian_dir: .obsidian
+      backlinks:
+        enabled: false
 
 nav:
   - Home: index.md
