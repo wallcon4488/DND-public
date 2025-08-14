@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General World Notes.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "General World Notes"
+              "title": "README"
             }
           }
         ]
@@ -147,13 +147,23 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "8b44950ac9e9ecfa",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,16 +176,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e004e53093b496f7",
+  "active": "a7abf98163d903c8",
   "lastOpenFiles": [
+    "General World Notes.md",
+    "README.md",
     "Unique Characteristics",
     "Religion",
     "Political Powers",
     "Inhabitants",
     "History",
     "Geography",
-    "General World Notes.md",
-    "Untitled.md",
     "gamer gorls DND + josh/Private General Worldbuilding Notes.md",
     "Culture",
     "Characters",
