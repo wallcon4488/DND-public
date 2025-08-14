@@ -1,1 +1,1 @@
-# Georgraphy
+# Geography
