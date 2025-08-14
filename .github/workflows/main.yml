@@ -3,7 +3,8 @@ on:
   push:
     branches:
       - main
-
+permissions:
+  id-token: write
 jobs:
   build_mkdocs:
     runs-on: ubuntu-latest
@@ -20,7 +21,6 @@ jobs:
       - run: mkdocs gh-deploy --config-file mkdocs.yml
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
 
   deploy_mkdocs:
     needs: build_mkdocs
