@@ -176,28 +176,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e004e53093b496f7",
+  "active": "8b44950ac9e9ecfa",
   "lastOpenFiles": [
+    "Scripts/deactivate.bat",
+    "Scripts/activate.bat",
+    "Scripts/Activate.ps1",
+    "Scripts/activate",
+    "Lib/site-packages/pip-24.0.dist-info/RECORD6rx0dvt4.tmp",
+    "Lib/site-packages/pip-24.0.dist-info/REQUESTED",
+    "Lib/site-packages/pip-24.0.dist-info/INSTALLER",
+    "Scripts/pip3.12.exe",
+    "Scripts/pip3.exe",
+    "Scripts/pip.exe",
+    "Lib/site-packages/pip/_vendor/webencodings/__pycache__/x_user_defined.cpython-312.pyc",
     "Unique Characteristics/Unique Characteristic 1.md",
-    "Unique Characteristics",
     "Religion/Religion 1.md",
-    "Religion",
     "Political Powers/Political Power 1.md",
-    "Political Powers",
     "Inhabitants/Inhabitant 1.md",
-    "Inhabitants",
     "History/History 1.md",
-    "History",
     "Geography/Geography 1.md",
-    "Geography",
     "Culture/Culture 1.md",
-    "Culture",
     "Characters/Character 1.md",
-    "Characters",
     "General World Notes.md",
     "README.md",
-    "gamer gorls DND + josh/Private General Worldbuilding Notes.md",
-    "Realm",
-    "gamer gorls DND + josh"
+    "gamer gorls DND + josh/Private General Worldbuilding Notes.md"
   ]
 }
