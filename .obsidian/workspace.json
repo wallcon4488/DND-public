@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/General World Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "General World Notes"
             }
           }
         ]
@@ -176,22 +176,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f748271de0422c0f",
+  "active": "e004e53093b496f7",
   "lastOpenFiles": [
-    "docs/IGNORE THIS/Geography Nav.md",
+    "docs/index.md",
+    "docs/!! Navigation !!/Geography Nav.md",
     "docs/Welcome.md",
     "docs/Characters/Orc PC.md",
     "docs/Characters/Thri-kreen PC.md",
     "docs/Characters/Tabaxi PC.md",
     "docs/Characters/Genasi PC.md",
-    "docs/IGNORE THIS/Character Nav.md",
-    "docs/IGNORE THIS/Culture Nav.md",
-    "docs/IGNORE THIS/Political Powers Nav.md",
-    "docs/IGNORE THIS/Inhabitants Nav.md",
-    "docs/IGNORE THIS/History Nav.md",
+    "docs/!! Navigation !!/Character Nav.md",
+    "docs/!! Navigation !!/Culture Nav.md",
+    "docs/!! Navigation !!/Political Powers Nav.md",
+    "docs/!! Navigation !!/Inhabitants Nav.md",
+    "docs/!! Navigation !!/History Nav.md",
     "docs/Culture/Culture 1.md",
     "docs/General World Notes.md",
-    "docs/index.md",
     "site/Unique Characteristics/Unique Characteristic 1/index.html",
     "site/Unique Characteristics/Unique Characteristic 1",
     "site/Unique Characteristics",
@@ -209,10 +209,9 @@
     "Lib/site-packages/mkdocs_material_extensions-1.3.1.dist-info/licenses/LICENSE.md",
     "Lib/site-packages/pymdown_extensions-10.16.1.dist-info/licenses/LICENSE.md",
     "docs/Connor Dev Reference.md",
-    "docs/IGNORE THIS/Unique Characteristics Nav.md",
-    "docs/IGNORE THIS/Religion Nav.md",
+    "docs/!! Navigation !!/Unique Characteristics Nav.md",
+    "docs/!! Navigation !!/Religion Nav.md",
     "README.md",
-    "docs/index.md",
     "docs/index - Copy.md",
     "docs/Political Powers/Political Power 1.md",
     "docs/Inhabitants/Inhabitant 1.md",
