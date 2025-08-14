@@ -21,6 +21,7 @@ jobs:
         with:
           python-version: 3.12.4
       - run: pip install mkdocs-material
+      - run: pip install mkdocs-publisher
       - run: mkdocs gh-deploy --config-file mkdocs.yml
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

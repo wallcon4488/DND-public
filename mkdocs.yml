@@ -2,6 +2,10 @@ site_name: DND Public Site
 
 theme: material
 
+plugins:
+  - pub-obsidian:
+    obsidian_dir: .obsidian
+
 nav:
   - Home: index.md
   - General Notes: General World Notes.md
