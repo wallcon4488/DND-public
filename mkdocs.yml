@@ -5,11 +5,11 @@ theme: material
 nav:
   - Home: index.md
   - General Notes: General World Notes.md
-  - Characters: IGNORE THIS/Character Nav.md
-  - Culture: IGNORE THIS/Culture Nav.md
-  - Geography: IGNORE THIS/Geography Nav.md
-  - History: IGNORE THIS/History Nav.md
-  - Inhabitants: IGNORE THIS/Inhabitants Nav.md
-  - Political Powers: IGNORE THIS/Political Powers Nav.md
-  - Religion: IGNORE THIS/Religion Nav.md
-  - Other: IGNORE THIS/Unique Characteristics Nav.md
+  - Characters: \!\! Navigation \!\!/Character Nav.md
+  - Culture: \!\! Navigation \!\!/Culture Nav.md
+  - Geography: \!\! Navigation \!\!/Geography Nav.md
+  - History: \!\! Navigation \!\!/History Nav.md
+  - Inhabitants: \!\! Navigation \!\!/Inhabitants Nav.md
+  - Political Powers: \!\! Navigation \!\!/Political Powers Nav.md
+  - Religion: \!\! Navigation \!\!/Religion Nav.md
+  - Other: \!\! Navigation \!\!/Unique Characteristics Nav.md
