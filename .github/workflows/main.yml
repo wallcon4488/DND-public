@@ -17,6 +17,7 @@ jobs:
         with:
           python-version: 3.12.4
       - run: pip install mkdocs-material
+      - run: pip install obsidian-bridge
       - run: mkdocs gh-deploy --config-file mkdocs.yml
 
   deploy_mkdocs:
